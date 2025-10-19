@@ -97,9 +97,3 @@ Returns number of times the short link has been accessed.
 - Maven build tool
 
 ---
-
-## 👥 Authors
-
-Built by the team at **ProjectX**. Fork, extend, and deploy your own version today!
-
----
